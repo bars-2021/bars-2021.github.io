@@ -94,7 +94,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #2e2d29;
+    color              : #8c1515;
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
@@ -109,7 +109,7 @@ a:focus,
 
 a:navbar {
     text-decoration : none;
-    color           : #2e2d29 ;
+    color           : #8c1515 ;
     }
 a:registration {
     text-decoration : none;
